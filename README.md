@@ -1,2 +1,2 @@
 # first_project
-NEW JOURNEY IN GITHUB
+NEW JOURNEY IN GITHUB.
